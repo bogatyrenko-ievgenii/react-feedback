@@ -1,0 +1,21 @@
+
+.buttons {
+  width: 50px;
+  display: flex;
+}
+
+
+.button {
+    margin-right: 10px;
+    background-color: rgb(23, 214, 109);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px;
+}
+
+.hover {
+    margin-right: 10px;
+    background-color: rgb(23, 214, 109);
+    border: none;
+    border-radius: 5px;
+}
